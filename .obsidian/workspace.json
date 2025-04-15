@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Index/Home.md",
+                "file": "01_Language/01_Java/JVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "JVM"
             }
           }
         ]
@@ -178,19 +178,37 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "34c36c4c35bbb0d8",
+  "active": "56e3d340f29c9a4c",
   "lastOpenFiles": [
-    "01_Language/01_Java",
+    "01_Language/01_Java/GC.md",
+    "01_Language/01_Java/Java.md",
+    "01_Language/01_Java/JVM.md",
+    "01_Language/Language.md",
     "00_Index/Home.md",
-    "01_Language",
+    "08_Computer_Science/Computer Science.md",
+    "07_Testing/Testing.md",
+    "08_Computer_Science",
+    "05_System_Design/System Design.md",
+    "07_Testing",
+    "06_DevOps/DevOps.md",
+    "04_Distributed_System/Distributed System.md",
+    "04_Distributed_System",
+    "06_DevOps",
+    "05_System_Design",
+    "03_Database/Database.md",
+    "03_Database/02_NoSQL/NoSQL.md",
+    "03_Database/01_RDBMS/RDBMS.md",
+    "03_Database/02_NoSQL",
+    "03_Database/01_RDBMS",
+    "03_Database",
+    "02_Framework/Framework.md",
+    "02_Framework/01_Spring/Spring.md",
+    "02_Framework/01_Spring",
+    "02_Framework",
     "무제 1.md",
     "무제.md",
-    "00_Index",
     "Untitled.md",
-    "Untitled",
     "개발자/Untitled/네트워크.md",
-    "개발자/Untitled",
-    "Developer.md",
-    "개발자"
+    "Developer.md"
   ]
 }
